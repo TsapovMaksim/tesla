@@ -893,8 +893,8 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -ms-flex-wrap: wrapgit;
-      flex-wrap: wrapgit;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 
 .footer__copyright-item {
